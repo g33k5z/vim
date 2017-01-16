@@ -27,12 +27,14 @@ ino <down> <NoP>
 ino <left> <NoP>
 ino <right> <NoP>
 
+" TODO: why is this causing ui lag (this + <esc> remapped to save)
 " multiple esc key mappings including jj and keyboard mod to remap caps_lock
-map jj <esc>
+" map jj <esc>
 
 
 " add alt ways to :w 
-nmap <leader>w :update<CR>
+" TODO: diff :update vs :q ?
+nmap <leader>w :w<CR>
 nmap <esc> :w<CR>
 
 " change default hilight of brackets, easier to see
