@@ -6,4 +6,5 @@
 * neocomplete
 * unmap arrows (plis men no hax)
 * modify caps_lock key => esc
+* turn up key repeat speed and lower key repeat time
 * misc highlighting nonsense
