@@ -124,7 +124,9 @@ alias pip=pip3
 # value removed/truncated for public .git repo
 source ../env_nlp_main/bin/activate
 
-cd /mnt/disks/nlp/atoledo/
+# start in main dir
+# value removed/truncated for public .git repo
+cd /mnt/disks/..
 
 
 #tmux attach -t aA
