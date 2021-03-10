@@ -18,7 +18,7 @@
 * neocomplete
 
 **py jazz**
-vim-jedi
+* vim-jedi
 
 **local jazz**
 * modify caps_lock key => esc
