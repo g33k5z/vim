@@ -1,7 +1,7 @@
 ***fumbling towards a golang/py focused vim config***
 
 **tmux jazz**
-*weirdo status bar conf
+* weirdo status bar conf
 * join or create session on login (.bashrc)
 * vim style movement binds
 * tmux-resurrect (save/restore layouts)
@@ -12,7 +12,7 @@
 * misc highlighting nonsense
 * misc mappings I liked and stole
 
-** go jazz**
+**go jazz**
 * vim-go
 * vim-pathogen
 * neocomplete
